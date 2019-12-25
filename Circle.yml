@@ -1,0 +1,5 @@
+## Custom notifications
+notify:
+  webhooks:
+    # A list of hook hashes, containing the URL field
+    - url: https://outlook.office.com/webhook/618023f7-8edc-462d-8d85-aa38b3829fd5@ddd7c767-5121-4b92-97c3-baec6d1f059e/CircleCI/952494cc2c124e8eb1f0cea13cf974d5/59c5c0a7-f88c-49e3-b5cb-82c46a85ff0e
